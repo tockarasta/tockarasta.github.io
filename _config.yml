@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://tockarasta.github.io
+baseurl: /
 
 # Site settings
 title: Awesome Title
@@ -9,7 +9,7 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Barbara Mirkovic
   pic: 1
   position: Lead Designer
   social:
